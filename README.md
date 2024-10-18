@@ -22,7 +22,7 @@ This repository contains a simple interactive chatbot built using the OpenAI API
 ## Usage
 1. **Run the chatbot script**:
    ```bash
-   python chatbot.py
+   python chat_bot_demo.py
    ```
 2. **Interact with the chatbot**:
    - Type your questions or prompts and get responses.
